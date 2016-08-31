@@ -1,0 +1,53 @@
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\MotionDetector.exe
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\MotionDetector.pdb
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Controls.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Imaging.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Math.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Vision.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Controls.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Imaging.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Math.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\bin\Debug\AForge.Vision.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\MotionDetector.exe.config
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\obj\Debug\MotionDetector.exe
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\obj\Debug\MotionDetector.pdb
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\obj\Debug\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\obj\Debug\MotionDetectorSample.Properties.Resources.resources
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\MotionDetector.exe
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\MotionDetector.pdb
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Controls.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Genetic.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Imaging.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Math.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Neuro.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Video.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Vision.dll
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Controls.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Genetic.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Imaging.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Math.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Neuro.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Video.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Vision.xml
