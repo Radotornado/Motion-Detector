@@ -51,3 +51,9 @@ C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetecto
 C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Video.xml
 C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Video.DirectShow.xml
 C:\Users\rado\Documents\Visual Studio 2015\Projects\Samples\Vision\MotionDetector - Copy\bin\Debug\AForge.Vision.xml
+C:\Users\rado\Documents\GitHub\-Motion-Detector\MotionDetector\bin\Debug\MotionDetector.exe.config
+C:\Users\rado\Documents\GitHub\-Motion-Detector\MotionDetector\obj\Debug\MotionDetector.exe
+C:\Users\rado\Documents\GitHub\-Motion-Detector\MotionDetector\obj\Debug\MotionDetector.pdb
+C:\Users\rado\Documents\GitHub\-Motion-Detector\MotionDetector\obj\Debug\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\rado\Documents\GitHub\-Motion-Detector\MotionDetector\obj\Debug\MotionDetectorSample.MainForm.resources
+C:\Users\rado\Documents\GitHub\-Motion-Detector\MotionDetector\obj\Debug\MotionDetector.csproj.GenerateResource.Cache
